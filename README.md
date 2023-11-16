@@ -12,5 +12,5 @@ One day, searching for a watch band on Shein, I pondered the differences between
 
 ![image](https://github.com/HannahTech/Full-Stack-Recommendation/assets/81828685/6777dc96-bc06-4902-933d-8b23c963dcec)
 
-# Final Result
+# Web_App
 ![image](https://github.com/HannahTech/Full-Stack-Recommendation/assets/81828685/def2946e-d2c9-4f40-a67f-152f9df25ba7)
