@@ -8,4 +8,4 @@ One day, searching for a watch band on Shein, I pondered the differences between
     - Recommend base on price and material (most expensive material with lowest price)
     - Developed a web app to write search products and see recommended products
 
-![image](https://github.com/HannahTech/Full-Stack-Recommendation/assets/81828685/5e7f53da-e0aa-4482-bf52-989200b25a23)
+![image](https://github.com/HannahTech/Full-Stack-Recommendation/assets/81828685/def2946e-d2c9-4f40-a67f-152f9df25ba7)
