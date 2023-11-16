@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+#results {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+#progress-container {
+    width: 100%;
+    background-color: #ddd;
+}
+
+#progress {
+    height: 30px;
+    background-color: #af614c;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+}
